@@ -5,7 +5,6 @@ ruby '3.1.2'
 
 require "logger"
 
-
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.7', '>= 6.1.7.10'
 # Use sqlite3 as the database for Active Record
@@ -60,3 +59,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'concurrent-ruby', '1.3.4'
 
+gem 'pg', '~> 1.4' 
