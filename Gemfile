@@ -5,7 +5,6 @@ ruby '3.1.2'
 
 require "logger"
 
-gem 'pg', '~> 1.4'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.7', '>= 6.1.7.10'
